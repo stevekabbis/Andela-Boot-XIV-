@@ -2,3 +2,8 @@ The Andela Fellowship is really tough but we will make it through.
 I really love coding but it seems it doesn't love me.
 I know what i can do to make it love me.
 Practice
+i know one, Fibonacci between 0 and 100:
+a,b = 0,1
+while b < 100:
+     a,b = b, a+b
+     print (b)
